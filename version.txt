@@ -1,1 +1,1 @@
-0.0.1|https://tonsite.com/monapp_v1.0.1.exe
+0.0.2|https://tonsite.com/monapp_v1.0.1.exe
