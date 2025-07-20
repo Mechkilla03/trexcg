@@ -1,1 +1,1 @@
-1.1.0|https://github.com/Mechkilla03/trexcg/blob/main/trex_updater.exe
+1.1.1|https://raw.githubusercontent.com/Mechkilla03/trexcg/refs/heads/main/trex_updater.exe
