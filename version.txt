@@ -1,1 +1,1 @@
-1.1.1|https://raw.githubusercontent.com/Mechkilla03/trexcg/refs/heads/main/TrexCG.exe
+2.0.0|https://raw.githubusercontent.com/Mechkilla03/trexcg/refs/heads/main/TrexCG.exe
