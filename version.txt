@@ -1,1 +1,1 @@
-0.0.2|https://tonsite.com/monapp_v1.0.1.exe
+1.1.0|https://github.com/Mechkilla03/trexcg/blob/main/trex_updater.exe
